@@ -1,6 +1,6 @@
 ### Hi 👋, I'm David
 
-I’m a software consultant with over 15 years of experience. I have worked on hundreds of code bases, partnered with companies, and launched several products of my own.
+I’m a software engineer with over 15 years of experience. I have worked on hundreds of code bases, partnered with companies, and launched several products of my own.
 
 Currently, I am building a workflow infrastructure for developers. It's called Embed Workflow. It enables companies to offer a native workflow builder to their product's end-users in minutes.
 
