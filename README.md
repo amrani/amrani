@@ -1,11 +1,11 @@
 ### Hi 👋, I'm David
 
-I’m a software engineer with over 15 years of experience. I have worked on hundreds of code bases, partnered with companies, and launched several products of my own.
+Building Embed Workflow - a white-labeled workflow builder that companies embed in their application. Customers can automate processes while maintaining your brand's look and feel.
 
-Currently, I am building a workflow infrastructure for developers. It's called Embed Workflow. It enables companies to offer a native workflow builder to their product's end-users in minutes.
+Software engineer focused on developer experience and scalable architectures. 15+ years building products across hundreds of codebases. Passionate about self-funded startups and clean code.
 
 - 🔭 I’m currently working on [Embed Workflow](https://embedworkflow.com/).
-- 💬 Ask me about self-funding startups, anything workflows, scaling with ruby, ruby on rails, modularizing monolith applications, vanilla JS, AMQP, building a UI component library
+- 💬 Ask me about: workflow engines, scaling Ruby apps, modular monoliths, vanilla JS, UI components
 - 📫 How to reach me: david@amrani.com 
 
 <h3 align="left">Connect with me:</h3>
