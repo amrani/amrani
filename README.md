@@ -6,7 +6,6 @@ Software engineer focused on developer experience and scalable architectures. 15
 
 - 🔭 I’m currently working on [Embed Workflow](https://embedworkflow.com/).
 - 💬 Ask me about: workflow engines, scaling Ruby apps, modular monoliths, vanilla JS, UI components
-- 📫 How to reach me: david@amrani.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex">
