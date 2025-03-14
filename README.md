@@ -1,10 +1,10 @@
 ### Hi 👋, I'm David
 
-Building Embed Workflow - a white-labeled workflow builder that companies embed in their application. Customers can automate processes while maintaining your brand's look and feel.
+Building Embed Workflow - an in-app workflow builder that companies integrate into their platform. Your customers can build and automate workflows directly in your application.
 
 Software engineer focused on developer experience and scalable architectures. 15+ years building products across hundreds of codebases. Passionate about self-funded startups and clean code.
 
-- 🔭 I’m currently working on [Embed Workflow](https://embedworkflow.com/).
+- 🔭 I'm currently working on [Embed Workflow](https://embedworkflow.com/).
 - 💬 Ask me about: workflow engines, scaling Ruby apps, modular monoliths, vanilla JS, UI components
 
 <h3 align="left">Connect with me:</h3>
